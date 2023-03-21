@@ -1,0 +1,26 @@
+{
+  "name": "module7",
+  "version": "1.0.0",
+  "description": "Integrate MongoDB using Native Node Driver",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raabele1227/Module-7-MongoDB---NodeJS.git"
+  },
+  "author": "Rachel Abele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raabele1227/Module-7-MongoDB---NodeJS/issues"
+  },
+  "homepage": "https://github.com/raabele1227/Module-7-MongoDB---NodeJS#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "method-override": "^3.0.0",
+    "mongodb": "^5.1.0",
+    "morgan": "^1.10.0"
+  }
+}
